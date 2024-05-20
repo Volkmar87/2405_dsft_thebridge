@@ -1,7 +1,7 @@
 # Bootcamp - Data Science - Mayo 2024 - The Bridge
 
 
-![The Bridge](.img/TheBridge_logo.png)
+![The Bridge](./1_Data_Analysis/0_Matematicas_DS/img/TheBridge_logo.png)
 
 ----------
 
